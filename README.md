@@ -1,4 +1,4 @@
-# rafao1234
+# Rafael Lopes
 
 - Graduando em Engenharia de Software, atualmente no Terceiro período;
 - Aspirante na área de Desenvolvimento Web;
