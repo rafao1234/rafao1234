@@ -1,4 +1,4 @@
-# Rafael Lopes
+# Olá! Seja bem vindo!
 
 - Graduando em Engenharia de Software, atualmente no Terceiro período;
 - Aspirante na área de Desenvolvimento Web;
