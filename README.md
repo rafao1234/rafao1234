@@ -1,6 +1,6 @@
 # Olá! Seja bem vindo!
 
-- Graduando em Jogos Digitais, atualmente no Terceiro período;
+- Graduando em Jogos Digitais, atualmente no Quarto período;
 - Aspirante na área de Desenvolvimento Web;
 - Atualmente estudando JS;
 
